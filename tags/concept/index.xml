@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Concept on kentoids</title>
+    <link>http://kentoids.github.io/tags/concept/</link>
+    <description>Recent content in Concept on kentoids</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2019 kentoids.github.io</copyright>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://kentoids.github.io/tags/concept/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>感情置換機&lt;黒板キーキー&gt;</title>
+      <link>http://kentoids.github.io/post/kikiplayer/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://kentoids.github.io/post/kikiplayer/</guid>
+      <description>黒板に指を立てることは想像するだけで顔を歪ませるほどの不快なイメージが染み付いている。
+本作品では、この不快なイメージに新たな視点を加えることによって別の感情を生み出すことを試みた。
+                            共同制作者：吉岡健一郎
+担当：コンセプト、制作全般（全体設計、機構設計、電子工作、プロダクトデザイン、木材加工、プログラミング）、映像撮影・編集
+モータ、スピーカー、Arduino、PLA、木材、電子部品</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on kentoids</title>
+    <link>http://kentoids.github.io/page/</link>
+    <description>Recent content in Pages on kentoids</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2019 kentoids.github.io</copyright>
+    <lastBuildDate>Wed, 28 Sep 1994 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://kentoids.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://kentoids.github.io/page/about/</link>
+      <pubDate>Wed, 28 Sep 1994 00:00:00 +0000</pubDate>
+      
+      <guid>http://kentoids.github.io/page/about/</guid>
+      <description>メイカー / ゲームプログラマー
+京都府在住
+「意味を問い直すモノづくり」をモットーに色々作ります
+興味分野：アニマシー知覚、ロボティクス、プロダクト、ゲーム
+Maker / Game Programmer
+Living in Kyoto, Japan
+Making to Question what&amp;rsquo;s taken for granted
+Interested in : Animacy, Robotics, Products, Games</description>
+    </item>
+    
+  </channel>
+</rss>

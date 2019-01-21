@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://kentoids.github.io/post/deltalamp/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://kentoids.github.io/post/kikiplayer/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://kentoids.github.io/post/student-works/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://kentoids.github.io/page/about/</loc>
+    <lastmod>1994-09-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://kentoids.github.io/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kentoids.github.io/tags/concept/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kentoids.github.io/tags/experiment/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kentoids.github.io/categories/experiments/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kentoids.github.io/tags/hardware/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kentoids.github.io/tags/material/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kentoids.github.io/page/</loc>
+    <lastmod>1994-09-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kentoids.github.io/post/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kentoids.github.io/tags/product/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kentoids.github.io/tags/robotics/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kentoids.github.io/tags/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kentoids.github.io/categories/works/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kentoids.github.io/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
