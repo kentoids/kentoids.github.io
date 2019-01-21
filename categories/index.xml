@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on kentoids</title>
-    <link>http://kentoids.github.io/categories/</link>
+    <link>https://kentoids.github.io/categories/</link>
     <description>Recent content in Categories on kentoids</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2019 kentoids.github.io</copyright>
     
-	<atom:link href="http://kentoids.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kentoids.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Experiments</title>
-      <link>http://kentoids.github.io/categories/experiments/</link>
+      <link>https://kentoids.github.io/categories/experiments/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://kentoids.github.io/categories/experiments/</guid>
+      <guid>https://kentoids.github.io/categories/experiments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Works</title>
-      <link>http://kentoids.github.io/categories/works/</link>
+      <link>https://kentoids.github.io/categories/works/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://kentoids.github.io/categories/works/</guid>
+      <guid>https://kentoids.github.io/categories/works/</guid>
       <description></description>
     </item>
     

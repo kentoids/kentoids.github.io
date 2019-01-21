@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on kentoids</title>
-    <link>http://kentoids.github.io/post/</link>
+    <link>https://kentoids.github.io/post/</link>
     <description>Recent content in Posts on kentoids</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2019 kentoids.github.io</copyright>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://kentoids.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kentoids.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Delta Robot &#43; Lamp</title>
-      <link>http://kentoids.github.io/post/deltalamp/</link>
+      <link>https://kentoids.github.io/post/deltalamp/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://kentoids.github.io/post/deltalamp/</guid>
+      <guid>https://kentoids.github.io/post/deltalamp/</guid>
       <description>デルタロボットの機構とランプを組み合わせたキネティックランプの実験
 Arduino, Servo, Led Light, Processing
                 </description>
@@ -25,10 +25,10 @@ Arduino, Servo, Led Light, Processing
     
     <item>
       <title>感情置換機&lt;黒板キーキー&gt;</title>
-      <link>http://kentoids.github.io/post/kikiplayer/</link>
+      <link>https://kentoids.github.io/post/kikiplayer/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://kentoids.github.io/post/kikiplayer/</guid>
+      <guid>https://kentoids.github.io/post/kikiplayer/</guid>
       <description>黒板に指を立てることは想像するだけで顔を歪ませるほどの不快なイメージが染み付いている。
 本作品では、この不快なイメージに新たな視点を加えることによって別の感情を生み出すことを試みた。
                             共同制作者：吉岡健一郎
@@ -38,10 +38,10 @@ Arduino, Servo, Led Light, Processing
     
     <item>
       <title>Student Works</title>
-      <link>http://kentoids.github.io/post/student-works/</link>
+      <link>https://kentoids.github.io/post/student-works/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://kentoids.github.io/post/student-works/</guid>
+      <guid>https://kentoids.github.io/post/student-works/</guid>
       <description>Student Works (2015 ~ 2018)
 more at kentomorita.wordpress.com
                   </description>

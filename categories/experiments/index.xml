@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experiments on kentoids</title>
-    <link>http://kentoids.github.io/categories/experiments/</link>
+    <link>https://kentoids.github.io/categories/experiments/</link>
     <description>Recent content in Experiments on kentoids</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2019 kentoids.github.io</copyright>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://kentoids.github.io/categories/experiments/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kentoids.github.io/categories/experiments/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Delta Robot &#43; Lamp</title>
-      <link>http://kentoids.github.io/post/deltalamp/</link>
+      <link>https://kentoids.github.io/post/deltalamp/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://kentoids.github.io/post/deltalamp/</guid>
+      <guid>https://kentoids.github.io/post/deltalamp/</guid>
       <description>デルタロボットの機構とランプを組み合わせたキネティックランプの実験
 Arduino, Servo, Led Light, Processing
                 </description>
