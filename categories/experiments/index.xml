@@ -13,14 +13,14 @@
     
     
     <item>
-      <title>Delta Robot &#43; Lamp</title>
+      <title>Delta Lamp</title>
       <link>https://kentoids.github.io/post/deltalamp/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://kentoids.github.io/post/deltalamp/</guid>
       <description>デルタロボットの機構とランプを組み合わせたキネティックランプの実験
 Arduino, Servo, Led Light, Processing
-                </description>
+            試作1 試作2 試作3(maker faire kyoto 2019) </description>
     </item>
     
   </channel>
