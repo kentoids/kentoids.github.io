@@ -4,6 +4,13 @@
   
   <url>
     <loc>https://kentoids.github.io/post/deltalamp/</loc>
+    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kentoids.github.io/post/deltalamp_experiment/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -59,7 +66,7 @@
   
   <url>
     <loc>https://kentoids.github.io/tags/hardware/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -80,21 +87,21 @@
   
   <url>
     <loc>https://kentoids.github.io/post/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kentoids.github.io/tags/product/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kentoids.github.io/tags/robotics/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -108,14 +115,14 @@
   
   <url>
     <loc>https://kentoids.github.io/categories/works/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kentoids.github.io/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>

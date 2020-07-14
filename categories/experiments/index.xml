@@ -6,18 +6,18 @@
     <description>Recent content in Experiments on kentoids</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2019 kentoids.github.io</copyright>
+    <copyright>© 2020 kentoids.github.io</copyright>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kentoids.github.io/categories/experiments/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Delta Lamp</title>
-      <link>https://kentoids.github.io/post/deltalamp/</link>
+      <title>Delta Lamp Experiments</title>
+      <link>https://kentoids.github.io/post/deltalamp_experiment/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://kentoids.github.io/post/deltalamp/</guid>
+      <guid>https://kentoids.github.io/post/deltalamp_experiment/</guid>
       <description>デルタロボットの機構とランプを組み合わせたキネティックランプの実験
 Arduino, Servo, Led Light, Processing
             試作1 試作2 試作3(maker faire kyoto 2019) </description>

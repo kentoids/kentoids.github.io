@@ -6,11 +6,23 @@
     <description>Recent content in Works on kentoids</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2019 kentoids.github.io</copyright>
-    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <copyright>© 2020 kentoids.github.io</copyright>
+    <lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kentoids.github.io/categories/works/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Delta Lamp</title>
+      <link>https://kentoids.github.io/post/deltalamp/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kentoids.github.io/post/deltalamp/</guid>
+      <description>DeltaLamp is a robotic lamp which uses Delta Robot structure to move and animate.
+デルタランプはデルタロボット構造を使ったランプです。この構造によって歩いたり、様々なアニメを実現することができます。
+Arduino, Servo, Led Light, openFrameworks
+              </description>
+    </item>
     
     <item>
       <title>感情置換機&lt;黒板キーキー&gt;</title>
